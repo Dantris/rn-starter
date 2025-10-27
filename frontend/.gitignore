@@ -1,0 +1,8 @@
+# RN/Expo
+.expo/
+.expo-shared/
+.watchman*
+node_modules/
+
+# OS/Editor
+.DS_Store
